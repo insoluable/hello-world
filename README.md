@@ -1,1 +1,1 @@
-# hello-world
+# Standard repository for testing.
